@@ -1,4 +1,3 @@
-# Leah Alcaraz 301279925 October 6, 2023
 
 fNum1, fNum2 = map(int, input('Enter two numbers that are smaller than 0 or greater than 10: ').split())
 fNum1 = int(fNum1)
